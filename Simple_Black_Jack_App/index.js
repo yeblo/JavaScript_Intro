@@ -12,7 +12,7 @@ let message = "";
 
 
 let player = {
-     name : "Per",
+     name : "Per", 
      chips : 145
 }
 
